@@ -1,0 +1,9 @@
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT6\obj\Debug\BT6.Form1.resources
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT6\obj\Debug\BT6.Properties.Resources.resources
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT6\obj\Debug\BT6.csproj.GenerateResource.Cache
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT6\bin\Debug\BT6.exe.config
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT6\bin\Debug\BT6.exe
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT6\bin\Debug\BT6.pdb
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT6\obj\Debug\BT6.exe
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT6\obj\Debug\BT6.pdb
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT6\obj\Debug\BT6.csprojResolveAssemblyReference.cache

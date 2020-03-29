@@ -1,0 +1,9 @@
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT1\bin\Debug\BT1.exe.config
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT1\bin\Debug\BT1.exe
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT1\bin\Debug\BT1.pdb
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT1\obj\Debug\BT1.csprojResolveAssemblyReference.cache
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT1\obj\Debug\BT1.Form1.resources
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT1\obj\Debug\BT1.Properties.Resources.resources
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT1\obj\Debug\BT1.csproj.GenerateResource.Cache
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT1\obj\Debug\BT1.exe
+D:\PHI\Bài tập\Lập trình mạng căn bản\Lab2\BT1\obj\Debug\BT1.pdb
